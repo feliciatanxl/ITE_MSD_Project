@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62974724756",
+    "project_id": "calorie-tracker-proj",
+    "storage_bucket": "calorie-tracker-proj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62974724756:android:c5df20b0d8bd775d0d0281",
+        "android_client_info": {
+          "package_name": "com.feliciatan.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN0JrKNqzUV0MmxTDYXZJnXvMK9Pa6Bs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
