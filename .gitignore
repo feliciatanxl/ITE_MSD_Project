@@ -41,3 +41,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Ignore Firebase configuration files containing API keys
+lib/firebase_options.dart
+
+# Ignore other files with secrets (if main.dart has secrets, it's better to move them!)
+# Ideally, you shouldn't ignore main.dart, but for now, if it has a key:
+lib/main.dart
